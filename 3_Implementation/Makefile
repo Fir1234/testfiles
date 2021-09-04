@@ -28,11 +28,10 @@ endif
 MAIN_NAME = main.cpp
 
 # All source code files
-SRC = src/availableRoom.cpp\
-src/checkIn.cpp\
-src/checkOut.cpp\
-src/getSummary.cpp\
-src/searchCustomer.cpp
+SRC = src/customer.cpp\
+src/room.cpp\
+src/hm_code.cpp\
+src/hm_main.cpp
 
 
 # All test source files

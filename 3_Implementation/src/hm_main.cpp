@@ -3,6 +3,7 @@
 #include<conio.h>
 #include "customer.h"
 #include "room.h"
+
 #define max 100
 class Room rooms[max];
 int count=0;

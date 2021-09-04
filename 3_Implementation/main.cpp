@@ -1,7 +1,8 @@
 #include<iostream>
 #include<string.h>
 #include<conio.h>
-#include<hotel.hpp>
+#include"customer.h"
+#include"room.h"
 
 #define max 100
 using namespace std;

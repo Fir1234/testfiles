@@ -1,16 +1,5 @@
-#include<iostream>
-#include<string.h>
-#include<conio.h>
-#include "customer.h"
-#include "room.h"
-
-#define max 100
-using namespace std;
-
-
-//Global Declarations
-class Room rooms[max];
-int count=0;
+#include"main.h"
+#include"room.h"
 
 
 Room Room::addRoom(int rno)

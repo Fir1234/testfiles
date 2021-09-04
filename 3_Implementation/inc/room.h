@@ -1,8 +1,4 @@
-#ifndef __ROOM_H
-#define __ROOM_H
-#include<iostream>
-#include<string>
-using namespace std;
+#include"main.h"
 
 class Room
 {
@@ -20,4 +16,4 @@ void searchRoom(int);
 void deleteRoom(int);
 void displayRoom(Room);
 };
-#endif
+

@@ -29,9 +29,7 @@ MAIN_NAME = main.cpp
 
 # All source code files
 SRC = src/customer.cpp\
-src/room.cpp\
-src/hm_code.cpp\
-src/hm_main.cpp
+src/room.cpp
 
 
 # All test source files

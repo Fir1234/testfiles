@@ -17,5 +17,8 @@
   "C_Cpp_Runner.debuggerPath": "C:\\MinGW\\bin\\gdb.exe",
   "C_Cpp_Runner.makePath": "C:\\MinGW\\bin\\make.exe",
   "C_Cpp.dimInactiveRegions": false,
-  "C_Cpp.errorSquiggles": "Disabled"
+  "C_Cpp.errorSquiggles": "Disabled",
+  "files.associations": {
+    "iostream": "cpp"
+  }
 }

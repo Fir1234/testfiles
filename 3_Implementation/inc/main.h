@@ -1,14 +1,16 @@
-#ifndef __MAIN_H
+//  Copyright
+#ifndef __MAIN_H  // NOLINT
 #define __MAIN_H
 
 #include<iostream>
-#include<string.h>
-#include<conio.h>
+#include<string.h>  // NOLINT
+#include<conio.h>  // NOLINT
 
 #define max 100
-using namespace std;
+using namespace std;  // NOLINT
 
 class Room rooms[max];
-int count=0;
+int count = 0;
 
-#endif
+#endif  // 3_IMPLEMENTATION_INC_MAIN_H_
+

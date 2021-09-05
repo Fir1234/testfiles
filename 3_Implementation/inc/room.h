@@ -1,4 +1,8 @@
+#ifndef __ROOM_H
+#define __ROOM_H
 #include"main.h"
+#include"customer.h"
+
 
 class Room
 {
@@ -17,3 +21,4 @@ void deleteRoom(int);
 void displayRoom(Room);
 };
 
+#endif

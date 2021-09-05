@@ -1,6 +1,9 @@
 #include"main.h"
 #include"room.h"
 
+//Global Declarations
+class Room rooms[max];
+int count=0;
 
 Room Room::addRoom(int rno)
 {

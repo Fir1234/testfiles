@@ -1,11 +1,9 @@
 #include"customer.h"
-#include"room.h"
-#include"main.h"
 #define max 100
 using namespace std;
 
-class Room rooms[max];
-int count=0;
+
+
 //hotel management class
 
 

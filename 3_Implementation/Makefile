@@ -2,7 +2,7 @@
 #<TAB>Command
 
 # Name of the Project
-PROJ_NAME = HotelMgntSystem
+PROJ_NAME = HotelManagementSystem
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
 # Output directory

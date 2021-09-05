@@ -21,4 +21,7 @@ void deleteRoom(int);
 void displayRoom(Room);
 };
 
+class Room rooms[max];
+int count=0;
+
 #endif

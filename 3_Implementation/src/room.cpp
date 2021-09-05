@@ -1,5 +1,3 @@
-#include"customer.h"
-#include"main.h"
 #include"room.h"
 
 //Global Declarations
